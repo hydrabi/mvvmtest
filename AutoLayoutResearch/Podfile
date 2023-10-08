@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+# platform :ios, '12.0'
+target 'AutoLayoutResearch' do
+#响应式函数框架
+pod 'RxSwift', '~>5.1.0'
+pod 'RxCocoa', '~>5.1.0'
+#约束
+pod 'SnapKit'
+end

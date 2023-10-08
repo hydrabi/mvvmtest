@@ -1,0 +1,6 @@
+module Pods_AutoLayoutResearch {
+  umbrella header "Pods-AutoLayoutResearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
