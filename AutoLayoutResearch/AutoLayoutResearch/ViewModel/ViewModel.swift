@@ -19,4 +19,5 @@ class ViewModel {
         "three",
         "four"
     ])
+    
 }

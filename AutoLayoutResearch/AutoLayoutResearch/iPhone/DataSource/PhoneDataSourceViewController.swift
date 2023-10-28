@@ -26,6 +26,8 @@ class PhoneDataSourceViewController: UIViewController {
         tableView.separatorStyle = .none
         dataSource = DataSource(viewModel: viewModel, tableView: tableView)
         tableView.reloadData()
+        
+        
     }
     
 
